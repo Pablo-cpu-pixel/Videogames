@@ -5,7 +5,7 @@
 
 	<head>
 		<metacharset = 'utf-8'>
-		<title>SUBMARINOS</title>
+		<title>Deportes</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 
@@ -24,7 +24,7 @@
 
 	<body>
 
-		<h1>Submarinos</h1>
+		<h1>Deportes</h1>
 
 
 
@@ -32,7 +32,7 @@
 
 		<tr> <!-- creamos la primera fila-->
 
-		<td><a href = html/origen.html><img src = "figuras/origen.png" alt = 'Orígenes' ><figcaption>Orígenes</figcaption></a></td> 
+		<td><a href = html/Baloncesto.html><img src = "figuras/origen.png" alt = 'Orígenes' ><figcaption>Orígenes</figcaption></a></td> 
 		<td><a href = html/isaac.html><img src = "figuras/ipsubmarino.png" alt = 'Isaac' ><figcaption>Isaac Peral</figcaption></a></td> 
 		<td><a href = html/nuclear.html><img src = "figuras/nuclear.png" alt = 'Nucleares' ><figcaption>Nucleares</figcaption></a></td> 
 		
